@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-essam-260a04178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-essam-260a04178/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19022960/omar-essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19022960/omar-essam" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/oessam20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oessam20/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc47dfb22rlizn4r65lyfrsa/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc47dfb22rlizn4r65lyfrsa/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/omar essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar essam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
