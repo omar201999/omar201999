@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/omar-essam-260a04178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-essam-260a04178/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19022960/omar-essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19022960/omar-essam" height="30" width="40" /></a>
 <a href="https://www.facebook.com/oessam20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oessam20/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC47dFB22rLizN4R65lyFrSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc47dfb22rlizn4r65lyfrsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
