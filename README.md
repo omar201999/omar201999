@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **essamomar528@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1eu8G9MC10VMzGfqPmjCeH3PGJNaYfWn7/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15pz6U3RwbiocV97TvVS1nml8cSymBXAg/view?usp=share_link)
 
 - ⚡ Fun fact **I think i am a greater developer**
 
