@@ -2,11 +2,13 @@
 <h3 align="center">A highly motivated cloud Devops engineer with passion to work and learn to gain more knowledge and experience. I have strong technical skills as well as interpersonal skills, enabling me to interact with wide range of people.</h3>
 <img align = "right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar201999&label=Profile%20views&color=0e75b6&style=flat" alt="omar201999" /> </p>
+
 - 🔭 I’m currently working on **ITI**
 
 - 🌱 I’m currently **Devops Engineer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omar201999](https://github.com/omar201999)
+- 👨‍💻 All of my projects are available at [omar201999](https://github.com/omar201999)
 
 - 💬 Ask me about **Devops Tools**
 
