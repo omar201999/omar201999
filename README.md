@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **essamomar528@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1bDXU-jBKljlsGX3joVwKlN_jU6oHtW3p/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1YnjJFB5Au_vNWYFgV_FZ1z8cjgLSsPRg/view)
 
 
 <h3 align="left">Connect with me:</h3>
